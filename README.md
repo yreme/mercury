@@ -4,7 +4,7 @@
 [![Dependency Status](https://gemnasium.com/jejacks0n/mercury.png)](https://gemnasium.com/jejacks0n/mercury)
 [![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/jejacks0n/mercury)
 
-此代码所预期的功能是，对整个页面都可用进行编辑
+此代码所预期的功能是，对整个页面都可用进行编辑。这个是核心，对任何html添加这个功能， 就可以博取众长。  
 
 Mercury Editor is a fully featured editor much like TinyMCE or CKEditor, but with a different usage paradigm.  It
 expects that an `entire page is something that can be editable`, and `allows different types of editable regions to be
