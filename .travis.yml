@@ -1,5 +1,6 @@
 rvm:
   - 1.9.3
+<<<<<<< HEAD
 #before_script:
 #  - 'sh -e /etc/init.d/xvfb start'
 #env:
@@ -7,3 +8,6 @@ rvm:
 script: bundle exec rake --trace
 
 
+=======
+script: bundle exec rake --trace
+>>>>>>> 95e6decf9fd1b2a7f705e45b64c210e86cd2c885

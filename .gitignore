@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # General
 .bundle
 .rvmrc
@@ -30,3 +31,20 @@ capybara*
 .sass-cache
 public/system
 public/assets
+=======
+coverage
+log/*.log
+tmp
+
+uploads
+temp
+
+# Misc Ruby
+.rbenv-gemsets
+.rbenv-version
+.irbrc
+.bundle
+.gems
+.fontcustom-data
+.bin
+>>>>>>> 95e6decf9fd1b2a7f705e45b64c210e86cd2c885

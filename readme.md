@@ -1,13 +1,16 @@
 Mercury Editor 说明
 ====================
 
+
 [![Build Status](https://secure.travis-ci.org/jejacks0n/mercury.png?branch=master)](http://travis-ci.org/jejacks0n/mercury)
 [![Dependency Status](https://gemnasium.com/jejacks0n/mercury.png)](https://gemnasium.com/jejacks0n/mercury)
 [![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/jejacks0n/mercury)
 
+此代码所预期的功能是，对整个页面都可用进行编辑。这个是核心，对任何html添加这个功能， 就可以博取众长。  
+
 Mercury Editor is a fully featured editor much like TinyMCE or CKEditor, but with a different usage paradigm.  It
-expects that an entire page is something that can be editable, and allows different types of editable regions to be
-specified.  It displays a single toolbar for every region on the page, and uses the HTML5 contentEditable features on
+expects that an `entire page is something that can be editable`, and `allows different types of editable regions to be
+specified`.  It displays a single toolbar for every region on the page, and uses the HTML5 contentEditable features on
 block elements, instead of iframes, which allows for CSS to be applied in ways that many other editors can't handle.
 
 Mercury has been written using CoffeeScript and jQuery for the Javascript portions, and is written on top of Rails 3.2.
