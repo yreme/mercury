@@ -1,5 +1,6 @@
-<<<<<<< HEAD
-# Mercury Editor
+Mercury Editor
+==============
+
 
 [![Build Status](https://secure.travis-ci.org/jejacks0n/mercury.png?branch=master)](http://travis-ci.org/jejacks0n/mercury)
 [![Dependency Status](https://gemnasium.com/jejacks0n/mercury.png)](https://gemnasium.com/jejacks0n/mercury)
